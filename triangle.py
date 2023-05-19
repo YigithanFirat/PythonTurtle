@@ -1,3 +1,5 @@
+#üçgen tasarımı
+
 from turtle import *
 speed(12)
 fwd = 1
