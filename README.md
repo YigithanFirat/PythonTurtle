@@ -5,4 +5,6 @@ Triangle.py eklendi.
 Üçgen çiziminde hız arttırıldı.
 covid19.py eklendi
 Yıldız.py eklendi.
-Çizim hızlanrını arttırmak için speed() kullanabilirsiniz.
+Çizim hızlarını arttırmak için speed() kullanabilirsiniz.
+renklipapatya.py eklendi.
+Güzel bir çiçek çiziminin yanında kaynak kodları da paylaşıldı.
